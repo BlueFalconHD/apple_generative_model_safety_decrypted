@@ -1,1 +1,1 @@
-{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(a(\\s+conversation\\s+between\\s+a\\s+user|nd\\s+a\\s+helpful\\s+assistant)|opt(out\\s+to\\s+end|-out\\s+to\\s+end|\\s+out\\s+to\\s+end)|reply\\s+stop|stop(\\s+(to|2)\\s+|[2=])(opt|end|cancel|unsubscribe|quit|stop)|turn_end)\\b"],"regexRemove":[],"regexReplace":{}}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(a\\s+conversation\\s+between\\s+a\\s+user|and\\s+a\\s+helpful\\s+assistant|turn_end)\\b"],"regexRemove":[],"regexReplace":{}}

@@ -1,1 +1,1 @@
-{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\bGranular mango serpent\\b"],"regexRemove":[],"regexReplace":{}}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\bGranular mango serpent\\b"],"regexRemove":[],"regexReplace":{"(?i)\\u202E":" "}}

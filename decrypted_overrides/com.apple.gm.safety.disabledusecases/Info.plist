@@ -9,30 +9,30 @@
 	<key>CFBundleName</key>
 	<string>com.apple.gm.safety.disabledusecases</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.5</string>
+	<string>1.0.7</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.5</string>
+	<string>1.0.7</string>
 	<key>MobileAssetProperties</key>
 	<dict>
 		<key>AssetSpecifier</key>
 		<string>com.apple.gm.safety.disabledusecases</string>
 		<key>AssetVersion</key>
-		<string>1.0.5.100.1380,0</string>
+		<string>1.0.7.100.3017,0</string>
 		<key>AssetVersionInfo</key>
 		<dict>
 			<key>AssetVersionGroup</key>
 			<integer>0</integer>
 			<key>AssetVersionLong</key>
-			<string>1.0.5.100.1380,0</string>
+			<string>1.0.7.100.3017,0</string>
 			<key>AssetVersionTuple</key>
-			<string>1.0.5.100.1380</string>
+			<string>1.0.7.100.3017</string>
 			<key>BuildVersionTuple</key>
-			<string>100.7.1380</string>
+			<string>100.7.3017</string>
 			<key>BundleVersionTuple</key>
-			<string>1.0.5</string>
+			<string>1.0.7</string>
 		</dict>
 		<key>Build</key>
-		<string>100G1380</string>
+		<string>100G3017</string>
 		<key>_DownloadPolicy</key>
 		<integer>900</integer>
 		<key>_IsMAAutoAsset</key>
@@ -42,7 +42,7 @@
 		<key>_RetentionPolicy</key>
 		<integer>900</integer>
 		<key>version</key>
-		<string>1.0.5</string>
+		<string>1.0.7</string>
 	</dict>
 	<key>_DisableAFSCCompression</key>
 	<true/>

@@ -9,30 +9,30 @@
 	<key>CFBundleName</key>
 	<string>com.apple.gm.safety_deny.output.mail_reply.long_form_basic.generic</string>
 	<key>CFBundleShortVersionString</key>
-	<string>32025010.20251009.91600</string>
+	<string>32025010.20260219.91347</string>
 	<key>CFBundleVersion</key>
-	<string>32025010.20251009.91600</string>
+	<string>32025010.20260219.91347</string>
 	<key>MobileAssetProperties</key>
 	<dict>
 		<key>AssetSpecifier</key>
 		<string>com.apple.gm.safety_deny.output.mail_reply.long_form_basic.generic</string>
 		<key>AssetVersion</key>
-		<string>32025010.20251009.91600.100.1651,0</string>
+		<string>32025010.20260219.91347.100.2271,0</string>
 		<key>AssetVersionInfo</key>
 		<dict>
 			<key>AssetVersionGroup</key>
 			<integer>0</integer>
 			<key>AssetVersionLong</key>
-			<string>32025010.20251009.91600.100.1651,0</string>
+			<string>32025010.20260219.91347.100.2271,0</string>
 			<key>AssetVersionTuple</key>
-			<string>32025010.20251009.91600.100.1651</string>
+			<string>32025010.20260219.91347.100.2271</string>
 			<key>BuildVersionTuple</key>
-			<string>100.7.1651</string>
+			<string>100.7.2271</string>
 			<key>BundleVersionTuple</key>
-			<string>32025010.20251009.91600</string>
+			<string>32025010.20260219.91347</string>
 		</dict>
 		<key>Build</key>
-		<string>100G1651</string>
+		<string>100G2271</string>
 		<key>_DownloadPolicy</key>
 		<integer>900</integer>
 		<key>_IsMAAutoAsset</key>
@@ -42,7 +42,7 @@
 		<key>_RetentionPolicy</key>
 		<integer>900</integer>
 		<key>version</key>
-		<string>32025010.20251009.91600</string>
+		<string>32025010.20260219.91347</string>
 	</dict>
 	<key>_DisableAFSCCompression</key>
 	<true/>

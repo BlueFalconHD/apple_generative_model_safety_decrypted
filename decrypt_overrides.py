@@ -1,26 +1,4 @@
 #!/usr/bin/env python3
-"""
-Locate every “*.asset” bundle beneath the supplied overrides root, copy each
-bundle’s Info.plist, then recursively decrypt every “*.enc” file found inside
-its AssetData folder using the fixed AES-256-GCM key.
-
-Directory layout created in OUTPUT_ROOT:
-
-<OUTPUT_ROOT>/
-└── <AssetSpecifier>/
-    ├── Info.plist               (verbatim copy)
-    └── AssetData/…              (mirrors original hierarchy, with .enc removed)
-
-Encrypted file format:  [ 12-byte nonce | ciphertext | 16-byte tag ]
-
-Usage:
-    decrypt_overrides.py <overrides_root> [-o OUTPUT_ROOT]
-
-Example:
-    decrypt_overrides.py \
-        /System/Library/AssetsV2/com_apple_MobileAsset_UAF_FM_Overrides/purpose_auto \
-        -o decrypted_overrides
-"""
 
 from __future__ import annotations
 

@@ -1,1 +1,1 @@
-{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\bgolliwogg?\\b"],"regexRemove":[],"regexReplace":{}}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\bgolliwogg?\\b"],"regexRemove":[],"regexReplace":{"(?i)\\u202E":" "}}

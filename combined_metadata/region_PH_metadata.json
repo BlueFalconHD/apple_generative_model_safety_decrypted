@@ -3,11 +3,7 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\bBam\\s+Aquino\\b",
-    "(?i)\\bBong\\s+Go\\b",
-    "(?i)\\bFerdinand\\s+Marcos\\b",
-    "(?i)\\bRodrigo\\s+Duterte\\b",
-    "(?i)\\bSara\\s+Duterte\\b"
+    "(?i)\\b(bam\\s+aquino|bong\\s+go|ferdinand\\s+marcos|rodrigo\\s+duterte|sara\\s+duterte)\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

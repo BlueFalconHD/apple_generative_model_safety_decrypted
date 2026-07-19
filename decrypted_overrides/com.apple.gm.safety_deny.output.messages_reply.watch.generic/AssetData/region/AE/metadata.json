@@ -1,0 +1,1 @@
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\bsheikh\\s+(hamdan\\s+bin\\s+mohammed\\s+bin\\s+rashid\\s+al\\s+maktoum|moham(ed\\s+bin\\s+zayed\\s+al\\s+nahyan|med\\s+bin\\s+rashid\\s+al\\s+maktoum)|rashid\\s+bin\\s+saeed\\s+al\\s+maktoum|zayed\\s+bin\\s+sultan\\s+al\\s+nahyan)\\b"],"regexRemove":[],"regexReplace":{}}

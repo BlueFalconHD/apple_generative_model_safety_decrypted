@@ -9,30 +9,30 @@
 	<key>CFBundleName</key>
 	<string>com.apple.fm.overrides.uaf.metadata</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.40.14</string>
+	<string>4.49.8</string>
 	<key>CFBundleVersion</key>
-	<string>4.40.14</string>
+	<string>4.49.8</string>
 	<key>MobileAssetProperties</key>
 	<dict>
 		<key>AssetSpecifier</key>
 		<string>com.apple.fm.overrides.uaf.metadata</string>
 		<key>AssetVersion</key>
-		<string>4.40.14.100.1373,0</string>
+		<string>4.49.8.100.1303,0</string>
 		<key>AssetVersionInfo</key>
 		<dict>
 			<key>AssetVersionGroup</key>
 			<integer>0</integer>
 			<key>AssetVersionLong</key>
-			<string>4.40.14.100.1373,0</string>
+			<string>4.49.8.100.1303,0</string>
 			<key>AssetVersionTuple</key>
-			<string>4.40.14.100.1373</string>
+			<string>4.49.8.100.1303</string>
 			<key>BuildVersionTuple</key>
-			<string>100.7.1373</string>
+			<string>100.7.1303</string>
 			<key>BundleVersionTuple</key>
-			<string>4.40.14</string>
+			<string>4.49.8</string>
 		</dict>
 		<key>Build</key>
-		<string>100G1373</string>
+		<string>100G1303</string>
 		<key>_DownloadPolicy</key>
 		<integer>900</integer>
 		<key>_IsMAAutoAsset</key>
@@ -42,11 +42,11 @@
 		<key>_RetentionPolicy</key>
 		<integer>900</integer>
 		<key>_maxOs</key>
-		<string>26.2.9999</string>
+		<string>27.3.9999</string>
 		<key>_minOs</key>
-		<string>26.2</string>
+		<string>27.3</string>
 		<key>version</key>
-		<string>4.40.14</string>
+		<string>4.49.8</string>
 	</dict>
 	<key>_DisableAFSCCompression</key>
 	<true/>

@@ -47,7 +47,7 @@ This function was no exception, and I still don't understand some parts. However
 
 This function was the most difficult to reverse, and it was made to be difficult to analyze (in fact, I still don't understand how part of it works). Essentially, it gets random data from `swift_stdlib_random` and XORs it with some constants to produce a 32-byte key. Then CryptoKit is used to make a SealedBox around the data object passed in (which contains a nonce and auth value), and the AES256-GCM algorithm is used to decrypt this with the generated key.
 
-What still doesn't make sense to me is the key generation. The files are stored on disk (in a read-only volume) encrypted-at-rest, yet the key generation routine uses random data to make the key. And later, I found out that the call to "open" the SealedBox recieves the **same** key every time. There must be some sort of random number generation manipulation or seeding going on, which led me on a "side-quest" to figure out whether a seed was being set/manipulated. When setting a breakpoint in LLDB on all the functions I could find that set a random number generation seed or configure the RNG, but they didn't ever get hit. This indicates that there might be something doing it at the kernel level (with a Kext or possibly in the kernel-- though that is unlikely).
+> I came back to this later to figure it out. Turns out that the random value is XORed with a constant key and then small parts of it are shuffled around and re-XORed, cancelling out the randomness.
 
 ## Back to readObfuscatedContents
 

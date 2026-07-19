@@ -1,0 +1,1 @@
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(\u4f60(\u54cb((/\u59b3\u54cb|\u5605|\u81ea\u5df1))?|\u5605)|\u59b3(\u54cb((\u5605|\u81ea\u5df1))?|\u5605)|\u8cb4|\u95a3\u4e0b(\u672c\u4eba)?)\\b","\u53f0\u72ec"],"regexRemove":[],"regexReplace":{}}

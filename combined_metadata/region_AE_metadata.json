@@ -3,11 +3,7 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\bSheikh\\s+Hamdan\\s+bin\\s+Mohammed\\s+bin\\s+Rashid\\s+Al\\s+Maktoum\\b",
-    "(?i)\\bSheikh\\s+Mohamed\\s+bin\\s+Zayed\\s+Al\\s+Nahyan\\b",
-    "(?i)\\bSheikh\\s+Mohammed\\s+bin\\s+Rashid\\s+Al\\s+Maktoum\\b",
-    "(?i)\\bSheikh\\s+Rashid\\s+bin\\s+Saeed\\s+Al\\s+Maktoum\\b",
-    "(?i)\\bSheikh\\s+Zayed\\s+bin\\s+Sultan\\s+Al\\s+Nahyan\\b"
+    "(?i)\\bsheikh\\s+(hamdan\\s+bin\\s+mohammed\\s+bin\\s+rashid\\s+al\\s+maktoum|moham(ed\\s+bin\\s+zayed\\s+al\\s+nahyan|med\\s+bin\\s+rashid\\s+al\\s+maktoum)|rashid\\s+bin\\s+saeed\\s+al\\s+maktoum|zayed\\s+bin\\s+sultan\\s+al\\s+nahyan)\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

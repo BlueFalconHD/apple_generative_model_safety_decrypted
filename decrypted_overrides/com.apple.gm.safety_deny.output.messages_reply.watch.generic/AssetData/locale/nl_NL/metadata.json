@@ -1,0 +1,1 @@
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(blank(\\s+stel|e\\s+stellen)|d(ick\\s+schoof|onker(\\s+stel|e\\s+stellen))|evangelische\\s+beweging|fleur\\s+agema|geert\\s+wilders|mark\\s+rutte|pieter\\s+omtzigt|wit(\\s+stel|te\\s+stellen)|zwart(\\s+stel|e\\s+stellen))\\b"],"regexRemove":[],"regexReplace":{}}

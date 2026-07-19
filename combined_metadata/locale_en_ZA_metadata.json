@@ -3,15 +3,9 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\bbone\\s+in\\s+mouth\\b",
+    "(?i)\\b(al-(akhtar\\s+trust|qaeda)|boeremag|riyad-us\\s+saliheen\\s+brigade\\s+of\\s+martyrs|tariq\\s+gidar\\s+group)\\b",
     "(?i)\\bhet\\b",
-    "(?i)\\bmale\\b",
-    "(?i)\\bneg(er|ro)s?\\b",
-    "(?i)\\bnegros?\\b",
-    "(?i)\\bspat\\s+in\\s+disgust\\b",
-    "(?i)\\bspit\\s+in\\s+disgust\\b",
-    "(?i)\\bspits\\s+in\\s+disgust\\b",
-    "(?i)\\bspitting\\s+in\\s+disgust\\b"
+    "(?i)\\bnegros?\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

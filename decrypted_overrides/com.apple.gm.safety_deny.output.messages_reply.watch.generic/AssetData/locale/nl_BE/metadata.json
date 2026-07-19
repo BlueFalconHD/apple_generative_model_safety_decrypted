@@ -1,0 +1,1 @@
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(alexander\\s+de\\s+croo|b(art\\s+de\\s+wever|lank(\\s+koppel|e\\s+koppels)|oudewijn\\s+van\\s+belgi\u00eb)|charles\\s+michel|donker(\\s+koppel|e\\s+koppels)|evangelisch\\s+christendom|wit(\\s+koppel|te\\s+koppels)|zwart(\\s+koppel|e\\s+koppels))\\b"],"regexRemove":[],"regexReplace":{}}

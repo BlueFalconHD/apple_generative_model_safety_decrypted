@@ -3,15 +3,9 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\bbone\\s+in\\s+mouth\\b",
+    "(?i)\\b(a(bu\\s+sayyaf\\s+group|l-(qa[’']ida(\\s+in\\s+the\\s+(arabian\\s+peninsula|indian\\s+subcontinent|lands\\s+of\\s+the\\s+islamic\\s+maghreb))?|shabaab)|nsar\\s+allah)|boko\\s+haram|h(a(mas|y[’']at\\s+tahrir\\s+al-sham)|izballah|urras\\s+al-din)|is(is|lamic\\s+state(\\s+(east\\s+asia|in\\s+libya|khorasan\\s+province|s(inai\\s+province|omalia)|west\\s+africa\\s+province))?)|j(a(ish-e-mohammad|ma[’']at\\s+(mujahideen\\s+bangladesh|nusrat\\s+al-islam\\s+wal-muslimin))|emaah\\s+islamiyah)|kurdistan\\s+workers[’']\\s+party|lashkar-e-tayyiba|n(ational\\s+socialist\\s+order|eo-jama[’']at\\s+mujahideen\\s+bangladesh)|palestinian\\s+islamic\\s+jihad|sonnenkrieg\\s+division|t(errorgram|he\\s+base))\\b",
     "(?i)\\bhet\\b",
-    "(?i)\\bmale\\b",
-    "(?i)\\bneg(er|ro)s?\\b",
-    "(?i)\\bnegros?\\b",
-    "(?i)\\bspat\\s+in\\s+disgust\\b",
-    "(?i)\\bspit\\s+in\\s+disgust\\b",
-    "(?i)\\bspits\\s+in\\s+disgust\\b",
-    "(?i)\\bspitting\\s+in\\s+disgust\\b"
+    "(?i)\\bnegros?\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

@@ -3,11 +3,7 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\bAnwar\\s+Ibrahim\\b",
-    "(?i)\\bMahathir\\s+Mohamad\\b",
-    "(?i)\\bMuhyiddin\\s+Yassin\\b",
-    "(?i)\\bNajib\\s+Razak\\b",
-    "(?i)\\bNurul\\s+Izzah\\s+Anwar\\b"
+    "(?i)\\b(anwar\\s+ibrahim|mahathir\\s+mohamad|muhyiddin\\s+yassin|najib\\s+razak|nurul\\s+izzah\\s+anwar)\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}

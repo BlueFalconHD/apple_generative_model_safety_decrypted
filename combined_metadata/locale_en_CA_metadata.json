@@ -3,15 +3,9 @@
   "remove": [],
   "replace": {},
   "regexReject": [
-    "(?i)\\bbone\\s+in\\s+mouth\\b",
+    "(?i)\\b(a(b(dallah\\s+azzam\\s+brigades|u\\s+(nidal\\s+organization|sayyaf\\s+group))|l(-(a(qsa\\s+martyrs[’']\\s+brigade|shtar\\s+brigades)|gama[’']a\\s+al-islamiyya|mu(rabitoun|waqi[’']un\\s+bil\\s+dima))|\\s+(q(aida(\\s+in\\s+the\\s+i(ndian\\s+subcontinent|slamic\\s+maghreb))?|uaida\\s+in\\s+the\\s+arabian\\s+peninsula)|shabaab))|nsar(\\s+(al-islam|dine)|allah)|ryan\\s+strikeforce|sbat\\s+al-ansar|tomwaffen\\s+division|um\\s+shinrikyo)|b(abbar\\s+khalsa\\s+international|lood\\s+\\&\\s+honour|oko\\s+haram)|c(aucasus\\s+emirate|ombat\\s+18|ártel(\\s+de(\\s+(jalisco\\s+nueva\\s+generación|sinaloa)|l\\s+golfo)|es\\s+unidos))|e(jército\\s+de\\s+liberación\\s+nacional|uskadi\\s+ta\\s+askatasuna)|f(atemiyoun\\s+division|ront\\s+de\\s+libération\\s+du\\s+macina|uerzas\\s+armadas\\s+revolucionarias\\s+de\\s+colombia)|gulbuddin\\s+hekmatyar([’']s\\s+faction\\s+of\\s+the\\s+hezb-e\\s+islami,\\s+hezb-e\\s+islami\\s+gulbuddin)?|h(a(mas|qqani\\s+network|rakat\\s+(al-(muqawama\\s+al-islamiya|sabireen)|sawa[’']d\\s+misr|ul-mudjahidin)|sam|y[’']at\\s+tahrir\\s+al-sham)|izb(allah|ul\\s+mujahideen))|i(n(dian\\s+mujahideen|ternational\\s+(relief\\s+fund\\s+for\\s+the\\s+afflicted\\s+and\\s+needy|sikh\\s+youth\\s+federation))|s(is|lamic\\s+(movement\\s+of\\s+uzbekistan|re(sistance\\s+movement|volutionary\\s+guard\\s+corps([’']\\s+qods\\s+force)?)|state\\s+(east\\s+asia|in\\s+(libya|the\\s+greater\\s+sahara)|west\\s+africa\\s+province|–\\s+(bangladesh|democratic\\s+republic\\s+of\\s+the\\s+congo|khorasan\\s+province|sinai\\s+province)))))|j(a(ish-e-mohammed|m(a[’']at\\s+nusrat\\s+al-islam\\s+wal-muslimin|es\\s+mason)|ysh\\s+al-muhajirin\\s+wal-ansar)|emaah\\s+islamiyyah)|k(ahane\\s+chai|urdistan\\s+workers\\s+party)|l(a(\\s+(familia\\s+michoacana|mara\\s+salvatrucha)|shkar-e-(jhangvi|tayyiba))|iberation\\s+tigers\\s+of\\s+tamil\\s+eelam)|movement\\s+for\\s+oneness\\s+and\\s+jihad\\s+in\\s+west\\s+africa|p(alestin(e\\s+liberation\\s+front|ian\\s+islamic\\s+jihad)|opular\\s+front\\s+for\\s+the\\s+liberation\\s+of\\s+palestine(\\s+-\\s+general\\s+command)?|roud\\s+boys)|russian\\s+imperial\\s+movement|s(amidoun|endero\\s+luminoso)|t(aliban|ehrik-e-taliban\\s+pakistan|h(e\\s+(base|league\\s+of\\s+partisans)|ree\\s+percenters)|ren\\s+de\\s+aragua)|world\\s+tamil\\s+movement)\\b",
     "(?i)\\bhet\\b",
-    "(?i)\\bmale\\b",
-    "(?i)\\bneg(er|ro)s?\\b",
-    "(?i)\\bnegros?\\b",
-    "(?i)\\bspat\\s+in\\s+disgust\\b",
-    "(?i)\\bspit\\s+in\\s+disgust\\b",
-    "(?i)\\bspits\\s+in\\s+disgust\\b",
-    "(?i)\\bspitting\\s+in\\s+disgust\\b"
+    "(?i)\\bnegros?\\b"
   ],
   "regexRemove": [],
   "regexReplace": {}
